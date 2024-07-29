@@ -1,0 +1,5 @@
+(在git_upload資料夾中點右鍵打開git bash)
+git status
+git add .
+git commit -m "訊息"
+git push origin main
